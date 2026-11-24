@@ -15,7 +15,7 @@ the log line I buried wakes
 it calls me by name
 ```
 
-Syllable count: 5 – 7 – 5. Total 74 characters (with trailing newline), three lines.
+Syllable count: 5 – 7 – 5. Total 73 characters (with trailing newline), three lines.
 
 ## How to run
 
