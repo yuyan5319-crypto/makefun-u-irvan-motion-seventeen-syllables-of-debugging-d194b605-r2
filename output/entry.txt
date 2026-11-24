@@ -1,0 +1,3 @@
+a breakpoint holds still
+the log line I buried wakes
+it calls me by name
